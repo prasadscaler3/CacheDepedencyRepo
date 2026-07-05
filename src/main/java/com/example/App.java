@@ -2,7 +2,7 @@ package com.example;
 
 public class App {
     public static void main(String[] args) {
-        System.out.println("Maven cache demo");
+        System.out.println("Maven cache demo2");
     }
 }
 
